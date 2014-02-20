@@ -1,0 +1,36 @@
+{
+	"name": "tumblr-featured",
+	"title": "Tumblr Featured Posts",
+	"description": "Quick featured posts plugin for tumblr.",
+	"keywords": [
+		"jquery",
+		"tumblr",
+		"plugins"
+	],
+	"version": "0.7.1",
+	"author": {
+		"name": "Mike Kuzin",
+		"email": "mike@kuzn.me",
+		"url": "https://github.com/kuzin"
+	},
+	"maintainers": [
+		{
+			"name": "Mike Kuzin",
+			"email": "mike@kuzn.me",
+			"url": "https://github.com/kuzin"
+		}
+	],
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://mit-license.org/"
+		}
+	],
+	"bugs": "https://github.com/kuzin/tumblr-featured/issues",
+	"homepage": "http://kuzn.dev",
+	"docs": "https://github.com/kuzin/tumblr-featured#readme",
+	"download": "https://github.com/kuzin/tumblr-featured/archive/master.zip",
+	"dependencies": {
+		"jquery": ">=1.4"
+	}
+}
